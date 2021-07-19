@@ -1,4 +1,4 @@
-# double-negation
+# Double-negation
 ML model for double negation detection
 ****************Abstract from the research*******************
 
