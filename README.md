@@ -1,5 +1,9 @@
 # Double-negation
 ML model for double negation detection
+
+
+Find the detailed study here [https://github.com/saqib002/Double-negation-using-ML/blob/main/Masterseminar_Intelligente_Systeme-1_9.pdf]
+
 ****************Abstract from the research*******************
 
 Good authors, comprehension writers and literature writers sometimes use double negatives in their writings. Therefore, to have an
